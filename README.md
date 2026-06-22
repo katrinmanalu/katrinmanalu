@@ -1,4 +1,4 @@
-# Hello I'm Katrin  
+# Hello I'm Katrin Manalu
 
 I'm a Computer Science student passionate about **Cloud Computing**.
 Currently seeking an **internship opportunity** to apply my skills and grow as a developer.  
