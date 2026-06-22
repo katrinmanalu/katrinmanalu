@@ -1,27 +1,43 @@
-# Hello I'm Katrin Manalu
+# Hi I'm Katrin Manalu 
 
-I'm a Computer Science student passionate about **Cloud Computing**.
-Currently seeking an **internship opportunity** to apply my skills and grow as a developer.  
+Computer Science student at BINUS University with interests in
+Full-Stack Development, Data Analytics, and Cloud Computing.
 
----
-
-## 📊 GitHub Stats
-![Katrin's GitHub stats](https://github-readme-stats.vercel.app/api?username=katrin05&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katrin05&layout=compact&theme=radical)
+Currently seeking internship opportunities to apply my technical skills,
+learn from industry professionals, and contribute to real world projects.
 
 ---
 
-## 🚀 Skills
-- Programming: Python, C
-- Web: HTML, CSS
-- Tools: Git, Docker, VS Code
-- Soft Skills: Time Management, Teamwork, Problem Solving  
+### Languages
+- Python
+- C
+- JavaScript
+
+### Web Development
+- HTML
+- CSS
+- REST API
+
+### Tools & Technologies
+- Git
+- GitHub
+- Docker
+- VS Code
+
+## Currently Learning
+- Full-Stack Development
+- Cloud Computing
+- Data Analytics 
+
+---
+
+## 💼 Portfolio
+- View my portfolio projects: [https://github.com/katrinmanalu](https://github.com/katrinmanalu/Portfolio)
 
 ---
 
 ## 🌐 Find me on
-- [LinkedIn](https://linkedin.com/in/katrinmanalu)  
-- [Portfolio Website](https://yourwebsite.com)  
+- [LinkedIn](https://www.linkedin.com/in/katrin-manalu/)  
 - [Email](katrin.manalu2@gmail.com)  
 
 ---
