@@ -31,7 +31,7 @@ learn from industry professionals, and contribute to real world projects.
 
 ---
 
-## 💼 Portfolio
+## Portfolio
 - View my portfolio projects: [https://github.com/katrinmanalu](https://github.com/katrinmanalu/Portfolio)
 
 ---
